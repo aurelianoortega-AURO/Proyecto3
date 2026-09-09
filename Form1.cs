@@ -106,5 +106,10 @@ namespace Led
 
             base.OnFormClosing(e);
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
